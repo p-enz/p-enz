@@ -7,6 +7,20 @@
 <a title="Rudloff, CC BY 3.0 &lt;https://creativecommons.org/licenses/by/3.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:CSS3_logo_and_wordmark.svg"><img width="46" alt="CSS3 logo and wordmark" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/64px-CSS3_logo_and_wordmark.svg.png"></a>
 <a title="Omed Habib, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Javascript-shield.png"><img width="68" alt="Javascript-shield" src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Javascript-shield.png"></a>
  
+## I’m interested in 
+💻 Learn to Code
+
+📚 Reading mostly non-ficition books
+
+🎲 ♟ Boardgames
+
+🎮 Videogames
+
+🧘🏻 Health and Fitness
+
+📷 Amateur-Fotografie 
+
+
 
 
 
