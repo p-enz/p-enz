@@ -21,8 +21,9 @@
 📷 Amateur-Fotografie 
 
 
-### Some of my poorly managed sozial networks
-<a href="https://www.instagram.com/ph_enz/"><img src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" width="48" height="48"></a>
+### Some of my sozial networks
+<a href="https://www.instagram.com/ph_enz/"><img src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" width="50" height="50" alt-text="Logo Instagram"></a>
+<a href="https://www.linkedin.com/in/philipp-enz-8272a4195/"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="36" height="36" alt-text="Logo LinkedIN" > </a>
 
 
 
