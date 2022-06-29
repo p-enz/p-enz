@@ -1,33 +1,33 @@
-# 👋 Hi, I’m Philipp 
-## 🌱 I’m currently learning Web-Dev
+Hi 👋 My name is Philipp Enz
+============================
 
-[comment]: <> (include HMTL, CSS, JS Logo, Care at width)
+Webdeveloper Frontend and Backend
+---------------------------------
 
-<a title="W3C, CC BY 3.0 &lt;https://creativecommons.org/licenses/by/3.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:HTML5_logo_and_wordmark.svg"><img width="64" alt="HTML5 logo and wordmark" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/64px-HTML5_logo_and_wordmark.svg.png"></a>
-<a title="Rudloff, CC BY 3.0 &lt;https://creativecommons.org/licenses/by/3.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:CSS3_logo_and_wordmark.svg"><img width="46" alt="CSS3 logo and wordmark" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/64px-CSS3_logo_and_wordmark.svg.png"></a>
-<a title="Omed Habib, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Javascript-shield.png"><img width="68" alt="Javascript-shield" src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Javascript-shield.png"></a>
- 
-## I’m interested in 
-💻 Learn to Code
+I am currently learning web-development in neue fische Bootcamp and I am passionate about learning new things to add to my tools. Currently i work on my Capstone project and will finish the Bootcamp at the end of July. I hope to start my journey as a Developer as soon as possible and will be very motivated to learn.
 
-📚 Reading mostly non-ficition books
+* 🌍  I'm based in Homburg
+* ✉️  You can contact me at [philipp.enz@phenz.de](mailto:philipp.enz@phenz.de)
+* 🚀  I'm currently working on [Capstone](http:// capstone-project)
+* 🧠  I'm learning React, MongoDB, Javascript, Zustand
 
-🎲 ♟ Boardgames
+### Skills
 
-🎮 Videogames
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+</p>
 
-🧘🏻 Health and Fitness
+### Socials
 
-📷 Amateur-Fotografie 
+<p align="left"> <a href="https://www.github.com/p-enz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/ph_enz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/philipp-enz-8272a4195/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/18977949/philippenz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+### Badges
 
+<b>My GitHub Stats</b>
 
-### Some of my sozial networks
-<a href="https://www.instagram.com/ph_enz/"><img src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" width="50" height="50" alt-text="Logo Instagram"></a>
-<a href="https://www.linkedin.com/in/philipp-enz-8272a4195/"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="36" height="36" alt-text="Logo LinkedIN" > </a>
+<a href="http://www.github.com/p-enz"><img src="https://github-readme-stats.vercel.app/api?username=p-enz&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="p-enz's GitHub stats" /></a>
 
-
-
-<!---
-p-enz/p-enz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="http://www.github.com/p-enz"><img src="https://activity-graph.herokuapp.com/graph?username=p-enz&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
