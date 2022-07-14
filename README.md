@@ -8,7 +8,7 @@ I am currently learning web-development in neue fische Bootcamp and I am passion
 
 * 🌍  I'm based in Homburg
 * ✉️  You can contact me at [philipp.enz@phenz.de](mailto:philipp.enz@phenz.de)
-* 🚀  I'm currently working on [Capstone](http:// capstone-project)
+* 🚀  I'm currently working on Capstone-Project https://github.com/dananhsl/capstone-project
 * 🧠  I'm learning React, MongoDB, Javascript, Zustand
 
 ### Skills
